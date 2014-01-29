@@ -1,0 +1,16 @@
+{
+  "name": "wgl-geometry",
+  "repo": "deniszatsepin/wgl-geometry",
+  "description": "Hold geometry information for WebGL object creation.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	  "deniszatsepin/wgl-buffer": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "geometry.js",
+  "scripts": [
+    "geometry.js"
+  ]
+}
